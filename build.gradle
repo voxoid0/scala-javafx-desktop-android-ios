@@ -1,0 +1,30 @@
+subprojects {
+
+	apply plugin: 'java'
+
+	sourceCompatibility = 1.8
+	targetCompatibility = 1.8
+
+    repositories {
+        mavenCentral()
+        jcenter()
+    }
+
+    dependencies {
+        testCompile 'junit:junit:4.12'
+    }
+
+    version = '1.0'
+
+    jar {
+        manifest.attributes provider: 'gradle'
+    }
+}
+
+//// inter-module dependencies
+project(':main') {
+    dependencies {
+        compile project(':modules:module1')
+        compile project(':modules:module2')
+    }
+}

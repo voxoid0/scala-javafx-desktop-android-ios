@@ -1,0 +1,9 @@
+syntax: glob
+**/bin/*
+**/.gradle
+**/.cache-main
+**/.cache-tests
+**/build/*
+**/.recommenders/*
+**/.idea/workspace.xml
+**/.idea/tasks.xml

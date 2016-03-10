@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/main/main.iml" filepath="$PROJECT_DIR$/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/module1/module1.iml" filepath="$PROJECT_DIR$/modules/module1/module1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/module2/module2.iml" filepath="$PROJECT_DIR$/modules/module2/module2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/modules.iml" filepath="$PROJECT_DIR$/modules/modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala-javafx-desktop-android-ios.iml" filepath="$PROJECT_DIR$/scala-javafx-desktop-android-ios.iml" />
+    </modules>
+  </component>
+</project>
