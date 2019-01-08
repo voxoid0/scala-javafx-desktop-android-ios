@@ -2,12 +2,13 @@ subprojects {
 
 	apply plugin: 'java'
 
-	sourceCompatibility = 1.8
-	targetCompatibility = 1.8
+	sourceCompatibility = 1.7
+	targetCompatibility = 1.7
 
     repositories {
-        mavenCentral()
         jcenter()
+        maven { url 'https://maven.google.com' }
+        maven { url 'http://nexus.gluonhq.com/nexus/content/repositories/releases/'}
     }
 
     dependencies {

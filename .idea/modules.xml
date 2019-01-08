@@ -2,11 +2,23 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/main/main.iml" filepath="$PROJECT_DIR$/main/main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/module1/module1.iml" filepath="$PROJECT_DIR$/modules/module1/module1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/module2/module2.iml" filepath="$PROJECT_DIR$/modules/module2/module2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/modules.iml" filepath="$PROJECT_DIR$/modules/modules.iml" />
-      <module fileurl="file://$PROJECT_DIR$/scala-javafx-desktop-android-ios.iml" filepath="$PROJECT_DIR$/scala-javafx-desktop-android-ios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/main/main.iml" filepath="$PROJECT_DIR$/.idea/modules/main/main.iml" group="main" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/main/main_android.iml" filepath="$PROJECT_DIR$/.idea/modules/main/main_android.iml" group="main" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/main/main_desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/main/main_desktop.iml" group="main" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/main/main_embedded.iml" filepath="$PROJECT_DIR$/.idea/modules/main/main_embedded.iml" group="main" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/main/main_ios.iml" filepath="$PROJECT_DIR$/.idea/modules/main/main_ios.iml" group="main" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/main/main_main.iml" filepath="$PROJECT_DIR$/.idea/modules/main/main_main.iml" group="main" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/main/main_test.iml" filepath="$PROJECT_DIR$/.idea/modules/main/main_test.iml" group="main" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/module1/module1.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/module1/module1.iml" group="modules/module1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/module1/module1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/module1/module1_main.iml" group="modules/module1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/module1/module1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/module1/module1_test.iml" group="modules/module1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/module2/module2.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/module2/module2.iml" group="modules/module2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/module2/module2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/module2/module2_main.iml" group="modules/module2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/module2/module2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/module2/module2_test.iml" group="modules/module2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/modules.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/modules.iml" group="modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/modules_main.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/modules_main.iml" group="modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/modules_test.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/modules_test.iml" group="modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-javafx-desktop-android-ios.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-javafx-desktop-android-ios.iml" />
     </modules>
   </component>
 </project>

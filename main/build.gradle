@@ -1,9 +1,11 @@
 buildscript {
+    dependencies {
+        classpath 'org.javafxports:jfxmobile-plugin:2.0.30'
+    }
     repositories {
         jcenter()
-    }
-    dependencies {
-        classpath 'org.javafxports:jfxmobile-plugin:1.0.7'
+        maven { url 'https://maven.google.com' }
+        maven { url 'http://nexus.gluonhq.com/nexus/content/repositories/releases/'}
     }
 }
 

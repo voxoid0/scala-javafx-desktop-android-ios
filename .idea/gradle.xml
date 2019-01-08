@@ -6,7 +6,7 @@
         <option name="createEmptyContentRootDirectories" value="true" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="JDK 1.8.0_40-release-b132 (OpenJDK 64-Bit Server VM)" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -17,15 +17,6 @@
           </set>
         </option>
         <option name="useAutoImport" value="true" />
-        <option name="myModules">
-          <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/main" />
-            <option value="$PROJECT_DIR$/modules" />
-            <option value="$PROJECT_DIR$/modules/module1" />
-            <option value="$PROJECT_DIR$/modules/module2" />
-          </set>
-        </option>
       </GradleProjectSettings>
     </option>
   </component>

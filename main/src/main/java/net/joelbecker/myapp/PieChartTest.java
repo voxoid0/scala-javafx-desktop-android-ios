@@ -11,6 +11,7 @@ import javafx.scene.chart.PieChart;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 import net.joelbecker.myapp.module1.PieChartUtil2;
+import net.joelbecker.myapp.module1.ScalaJavaFxTest;
 
 public class PieChartTest extends Application {
 	public static void main(String[] args) {
@@ -35,5 +36,7 @@ public class PieChartTest extends Application {
 		stage.setScene(scene);
 		stage.setTitle("JavaFX + Scala");
 		stage.show();
+
+        // ScalaJavaFxTest.doit();
 	}
 }

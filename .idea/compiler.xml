@@ -18,5 +18,19 @@
         <processorPath useClasspath="true" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="main_android" target="1.7" />
+      <module name="main_desktop" target="1.7" />
+      <module name="main_embedded" target="1.7" />
+      <module name="main_ios" target="1.7" />
+      <module name="main_main" target="1.7" />
+      <module name="main_test" target="1.7" />
+      <module name="module1_main" target="1.7" />
+      <module name="module1_test" target="1.7" />
+      <module name="module2_main" target="1.7" />
+      <module name="module2_test" target="1.7" />
+      <module name="modules_main" target="1.7" />
+      <module name="modules_test" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
